@@ -1,0 +1,20 @@
+1. Framework adalah kerangka kerja atau struktur fondasi untuk membangun dan mengembangkan aplikasi yang didalamnya terdapat aturan, konsep, dan alat-alat yang diperlukan untuk membangun suatu aplikasi.
+Tujuan dari menggunakan framework adalah untuk mempercepat proses pengembangan, karena dengan sudah tersedianya pondasi memudahkan  untuk membuat aplikasi sehingga developer tidak perlu memikirkan struktur awal.
+
+2.  - Apotek
+    - Anggota   : Iqbal Sabith Firdaus (224162552111)       jobdesk : Berkaitan dengan dokumentasi (ADBO)
+                : Muhamad Syahrul Katamso (22416255201064)  jobdesk : Berkaitan dengan web design (Pemweb)
+                : Naser Setiawan (22416255201026)           jobdesk : Berkaitan dengan Database (Basis Data)
+
+    -   + Keterbatasan Informasi Obat
+            * Masalah           : Pasien kesulitan dalam mencari informasi obat secara cepat
+            * Hipotesa Solusi   : Sistem dapat menyediakan informasi obat yang lengkap dan akurat
+        + Manajemen Stok Masih Manual
+            * Masalah           : Kesulitan dalam melacak stok obat dan rawan akan kesalahan informasi stok 
+            * Hipotesa Solusi   : Sistem dapat menyediakan Manajemen stok secara otomatis dan aktual
+        + Pelacakan Tanggal Kadaluarsa
+            * Masalah           : Kesulitan dalam melacak obat yang sudah mendekati Kadaluarsa
+            * Hipotesa Solusi   : Sistem dapat menyediakan pelacakan obat yang mendekati Kadaluarsa secara otomatis, dan memberi peringatan kepada petugas apabila obat mendekati tanggal Kadaluarsa
+        + Pencatatan transaksi Masih Manual
+            * Masalah           : Pencatatan transaksi masih manual sehingga lambat dan rawan kesalahan
+            * Hipotesa Solusi   : Sistem dapat menyediakan fitur pencatatan transaksi secara otomatis
